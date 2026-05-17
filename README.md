@@ -186,9 +186,6 @@ Given the sensitivity of medical applications, future research should address th
 The class imbalance observed in this dataset may reflect real-world disparities in healthcare question distribution. Future work should systematically analyze whether pre-trained Arabic language models inherit or amplify such biases, and propose debiasing strategies appropriate for the medical domain.
 
 ---
-
-## 8. References
-
 ## 8. References
 
 1. Antoun, W., Baly, F., & Hajj, H. (2020). [AraBERT: Transformer-based Model for Arabic Language Understanding](https://aclanthology.org/2020.lrec-1.299/). *LREC 2020*.
