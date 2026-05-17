@@ -191,4 +191,4 @@ The class imbalance observed in this dataset may reflect real-world disparities 
 1. Antoun, W., Baly, F., & Hajj, H. (2020). [AraBERT: Transformer-based Model for Arabic Language Understanding](https://aclanthology.org/2020.lrec-1.299/). *LREC 2020*.
 2. Inoue, G., et al. (2021). [CAMeL Tools: An Open Source Python Toolkit for Arabic Natural Language Processing](https://aclanthology.org/2021.eacl-demos.35/). *EACL 2021*.
 3. Northcutt, C., Jiang, L., & Chuang, I. (2021). [Confident Learning: Estimating Uncertainty in Dataset Labels](https://jair.org/index.php/jair/article/view/12118). *JAIR*, 70, 1373–1411.
-4. Original Paper: [OSACT 2024 — AraBERTv2 for Arabic QA](https://github.com/asafaya/bert-arabic-qa) *(Note: You can replace this link with the specific paper URL if available)*.
+4. Original Paper: [OSACT 2024 — AraBERTv2 for Arabic QA](https://aclanthology.org/2024.osact-1.6/) 
